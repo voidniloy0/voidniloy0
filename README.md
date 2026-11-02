@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I'm Maruf Hasan Niloy 👋
+🌙 voidniloy
+💻 Student & Developer
 
-<!--
-**voidniloy0/voidniloy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✅ Skilled in SQL
 
-Here are some ideas to get you started:
+📚 Currently Learning Operating Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Interested in Networking & System Design
+
+🚀 Building Projects and Expanding My Skills
+
+🇧🇩 Bangladesh
+
+🛠 Skills
+SQL
+Database Design
+Git & GitHub
+Excel
+📖 Currently Learning
+Operating Systems
+Computer Networking
+System Programming
+🎯 Goals
+Build Real-World Projects
+Learn Backend Development
+Contribute to Open Source
+Learn. Build. Improve. Repeat.
